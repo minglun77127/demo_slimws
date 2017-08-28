@@ -4,7 +4,7 @@ class Database{
     private $servername = "localhost";
     private $username = "root";
     private $password = "";
-    private $dbname = "erindale";
+    private $dbname = "demo";
     private $conn = null;
     private static $instance = null;
 

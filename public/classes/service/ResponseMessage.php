@@ -6,7 +6,7 @@
  * Time: 9:57 PM
  */
 
-class Response implements JsonSerializable {
+class ResponseMessage implements JsonSerializable {
     private $status;
     private $message;
     private $data;
